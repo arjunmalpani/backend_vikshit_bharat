@@ -2,7 +2,6 @@
 node_modules/
 dist/
 .vscode/
-.husky/
 
 # files to ignore
 package-lock.json
