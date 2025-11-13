@@ -1,0 +1,13 @@
+{
+  "name": "backend_vikshit_bharat",
+  "version": "1.0.0",
+  "description": "backend for vikshit bharat",
+  "license": "ISC",
+  "author": "arjun malpani",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  }
+}
