@@ -7,7 +7,13 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
+    "test": "node test.js",
     "start": "node index.js",
-    "dev": "node --watch index.js"
+    "dev": "node --watch index.js",
+    "prepare": "husky"
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.2.6"
   }
 }
