@@ -2,8 +2,10 @@
 node_modules/
 dist/
 .vscode/
+logs/
 
 # files to ignore
 package-lock.json
-.env
-
+.env.development
+.env.production
+git_workflow.md
